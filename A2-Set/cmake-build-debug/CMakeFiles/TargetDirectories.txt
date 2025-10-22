@@ -1,0 +1,3 @@
+C:/Users/Mocan Luiza/CLionProjects/A2-Set/cmake-build-debug/CMakeFiles/A2_Set.dir
+C:/Users/Mocan Luiza/CLionProjects/A2-Set/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Mocan Luiza/CLionProjects/A2-Set/cmake-build-debug/CMakeFiles/rebuild_cache.dir
