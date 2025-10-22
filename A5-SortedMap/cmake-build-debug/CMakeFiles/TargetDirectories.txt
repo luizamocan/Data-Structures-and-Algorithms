@@ -1,0 +1,3 @@
+C:/Users/Mocan Luiza/CLionProjects/A5-SortedMap/cmake-build-debug/CMakeFiles/A5_SortedMap.dir
+C:/Users/Mocan Luiza/CLionProjects/A5-SortedMap/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Mocan Luiza/CLionProjects/A5-SortedMap/cmake-build-debug/CMakeFiles/rebuild_cache.dir
